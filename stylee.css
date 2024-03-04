@@ -126,5 +126,15 @@ form .form-row .textarea{
   position: relative;
   z-index: 2;
 }
+  .social-icons {
+      margin-top: 20px;
+    }
+
+    .social-icons a {
+      margin-right: 10px;
+      text-decoration: none;
+      color: #333;
+      font-size: 20px;
+    }
 
  
