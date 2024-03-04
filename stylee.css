@@ -127,13 +127,13 @@ form .form-row .textarea{
   z-index: 2;
 }
   .social-icons {
-      margin-top: 80px;
+      margin-top: 90px;
     }
 
     .social-icons a {
       margin-right: 10px;
       text-decoration: none;
-      color: cyan;
+      color:cyan;
       font-size: 20px;
     }
 
